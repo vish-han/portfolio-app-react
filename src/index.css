@@ -90,6 +90,7 @@ span::before {
   position: absolute;
   top: 0;
   left: 0;
+  animation-timing-function: ease-out;
   mix-blend-mode: difference;
   animation: move 3s linear infinite;
 }
