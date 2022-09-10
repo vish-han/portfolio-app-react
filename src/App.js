@@ -20,10 +20,9 @@ setLoading(false)
   
     <div>
     {  loading? (
-        <div className="loader-container">
-        <div className="spinner"></div>
-        
-      </div> ) : (
+       
+<div class="loading"> <span>Loading</span><span>Loading</span>
+</div> ) : (
         <div>
       <Navbar />
       <Home />
