@@ -21,7 +21,7 @@ setLoading(false)
     <div>
     {  loading? (
        
-<div class="loading"> <span>Loading</span><span>Loading</span>
+<div class="loading"> <span>Loading</span>
 </div> ) : (
         <div>
       <Navbar />
