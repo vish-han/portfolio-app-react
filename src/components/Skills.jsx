@@ -6,7 +6,7 @@ import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png';
 import FireBase from '../assets/firebase.png';
-import AWS from '../assets/aws.png';
+import Sol from '../assets/sol.jpg';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
@@ -27,8 +27,8 @@ const Skills = () => {
                   <p className='my-4'>HTML</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={CSS} alt="HTML icon" />
-                  <p className='my-4'>CSS</p>
+                  <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
+                  <p className='my-4'>TAILWIND</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={JavaScript} alt="HTML icon" />
@@ -50,9 +50,13 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={Mongo} alt="HTML icon" />
                   <p className='my-4'>MONGO DB</p>
               </div>
+              {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={FireBase} alt="HTML icon" />
+                  <p className='my-4'>FIREBASE</p>
+              </div> */}
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={AWS} alt="HTML icon" />
-                  <p className='my-4'>AWS</p>
+                  <img className='w-20 mx-auto' src={Sol} alt="HTML icon" />
+                  <p className='my-4'>SOLIDITY</p>
               </div>
           </div>
       </div>
