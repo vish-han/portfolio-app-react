@@ -77,12 +77,12 @@ const Work = () => {
                 React JS Application
               </div> */}
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://scrapify-client-kphp.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/vish-han/Scrapify/tree/master'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -124,7 +124,7 @@ const Work = () => {
                 React JS Application
               </div> */}
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://react-travel-tailwind.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
@@ -147,12 +147,12 @@ const Work = () => {
                 React JS Application
               </div> */}
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://firebase-todo-rust.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/vish-han/firebase-todo/tree/master'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
