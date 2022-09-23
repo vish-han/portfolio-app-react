@@ -24,6 +24,7 @@ setLoading(false)
 <div class="loading"> <span>Loading</span>
 </div> ) : (
         <div>
+      
       <Navbar />
       <Home />
       <About />
