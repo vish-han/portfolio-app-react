@@ -4,6 +4,7 @@ import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
 import Work from "./components/Work";
+import Loading from "./components/Loading";
 import './index.css';
 import React from "react";
 
@@ -24,7 +25,7 @@ setLoading(false)
 <div class="loading"> <span>Loading</span>
 </div> ) : (
         <div>
-      
+    
       <Navbar />
       <Home />
       <About />
